@@ -61,10 +61,6 @@ This contract maintains users' whitelist statuses in order to claim certain boun
 
 This contract fosters transparency within the platform by managing the on-chain reputation of all participants. Users' reputations are based on their marketplace performance and behavior, aiding other participants in making informed decisions.
 
-### **Heroes Token Contract**
-
-This contract manages the creation, distribution, and transactions of the platform's native "Heroes" tokens. These tokens serve as a utility payment method within the ecosystem, facilitating tasks, rewards, and service fees.
-
 ### **Dispute Resolution Contract**
 
 This contract comes into play when disputes arise regarding task completion. It manages the dispute resolution process, allowing relevant experts to objectively evaluate the work done and decide on the release of funds from the Bounty Contract's escrow.
