@@ -37,7 +37,8 @@ Job seekers can browse available bounties and apply for tasks that match their s
 Investors can view startup opportunities and harvest the HEROES army to boost their portfolio value adding services. The platform allows investors to sign-up to get leads are not just the benefactors; they're the co-creators. They’re not merely injecting funds but are providing the thrust needed to lift these ambitious projects off the ground. By backing these bounties, investors play a crucial role in the actualization of creative endeavours and technological breakthroughs.
 
 
-![contracts_flow2](https://github.com/HeroesHQ/Kanban/assets/18598519/a81ed417-c375-41f2-a54c-12c800fb3d94)
+![chart](https://github.com/HeroesHQ/heroes/assets/18598519/51248d8d-17e4-44fc-ab4e-901780102d7d)
+
 
 
 
