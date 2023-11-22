@@ -1,5 +1,8 @@
 # HEROES.BUILD
 
+![1500x500](https://github.com/HeroesHQ/HEROES/assets/18598519/5edd5c9f-870b-4f9e-968d-0eb0f079b112)
+
+
 ## Introduction
 
 Welcome to the HEROES.BUILD work space. This repository serves as the central location for collecting feedback, suggestions, and bug reports for the HEROES platform.
