@@ -13,6 +13,10 @@ As part of our commitment to openness and community engagement, we've created th
 
 **WORK COLLECTION** This repository is intended to be a centralized location for users to provide feedback about the HEROES platform, suggest new features, or report any issues they encounter. It will allow us to maintain a transparent and open communication line with our user community.
 
+## Roadmap
+
+We organize work in bi-weekly sprints which you can track via [Heroes Milestones](https://github.com/HeroesHQ/HEROES/milestones).
+
 ## How to Contribute
 
 ### REQUEST WORK
