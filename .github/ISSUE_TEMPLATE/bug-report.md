@@ -11,7 +11,7 @@ assignees: AngelBlock
 
 A clear and concise description of what the bug is.
 
-##🤼‍♂️  To Reproduce
+## 🤼‍♂️  To Reproduce
 Steps to reproduce the behaviour:
 
 1)
@@ -19,7 +19,7 @@ Steps to reproduce the behaviour:
 3)
 
 
-##🎉 Expected behaviour
+## 🎉 Expected behaviour
 A clear and concise description of what you expected to happen.
 
 ## 🖥 Device info 
@@ -27,5 +27,5 @@ A clear and concise description of what you expected to happen.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-##🔗  Screenshots
+## 🔗  Screenshots
 If applicable, add screenshots to help explain your problem.

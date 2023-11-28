@@ -2,7 +2,7 @@
 name: WORK REQUEST
 about: SUGGEST WORK FOR BOUNTY
 title: "[WORK REQUEST] "
-labels: User-journey
+labels: ''
 assignees: starpause
 
 ---
