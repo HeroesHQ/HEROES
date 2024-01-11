@@ -3,7 +3,7 @@ name: WORK REQUEST
 about: SUGGEST WORK FOR BOUNTY
 title: "[WORK REQUEST] "
 labels: ''
-assignees: starpause
+assignees: ''
 
 ---
 
